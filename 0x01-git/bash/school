@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-The school iss open!
-=======
 #!/bin/bash
-<<<<<<< HEAD
-School
-
-
->>>>>>> 2892b8f041daca62f7fea77b557eea0c64ef4634
-=======
 echo "ALX School"
->>>>>>> master
+
